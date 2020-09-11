@@ -8,7 +8,7 @@ Creer un blog (i.e. Wordpress) permettant de décrire l'installation de:
 
 ## Creer un blog (i.e. wordpress.com)
 
-Le `blog` permettra de décrire toute la recherche effectuée pour installer Linux sur les machines [HP Proliant](https://github.com/CollegeBoreal/Laboratoires/tree/master/3202/proliant)
+Le `blog` permettra de décrire toute la recherche effectuée pour installer Linux sur les machines [HP Proliant G6 ou G7](https://github.com/CollegeBoreal/Laboratoires/tree/master/3202/proliant)
 
 Astuces: 
 
