@@ -4,7 +4,7 @@
 
 Creer un blog (i.e. Wordpress) permettant de décrire l'installation de:
 
-* Linux Ubuntu 20.04LTS
+* Linux [Ubuntu 20.04LTS](https://releases.ubuntu.com/20.04/)
 
 ## Creer un blog (i.e. wordpress.com)
 
