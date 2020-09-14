@@ -4,7 +4,7 @@
 
 Creer un blog (i.e. Wordpress) permettant de décrire l'installation de:
 
-* Linux [Ubuntu 20.04LTS](https://releases.ubuntu.com/20.04/)
+* Linux [Ubuntu 20.04LTS](https://releases.ubuntu.com/20.04/) plus précisément installer la version  Serveur en [64-bit](https://releases.ubuntu.com/20.04/ubuntu-20.04.1-live-server-amd64.iso)
 
 ## Creer un blog (i.e. wordpress.com)
 
