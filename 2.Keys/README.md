@@ -31,8 +31,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD2pLhMqFGKffSdYvNCMAyM7598oBY+m/3q5AMXmb7I
 | 00   | 300098957 - <image src="https://avatars0.githubusercontent.com/u/62551735?s=400&v=4" width=20 height=20></image> | `ssh ubuntu@10.13.237.9` |:heavy_check_mark:|:heavy_check_mark: `10.13.2.59`|
 | 01   | 300111824 - <image src="https://avatars2.githubusercontent.com/u/54911706?s=400&v=4" width=20 height=20></image> | `ssh ???@10.13.237.??`   |:heavy_check_mark:|:heavy_check_mark:|
 | 02   | 300115065 - <image src="https://avatars0.githubusercontent.com/u/54910778?s=400&v=4" width=20 height=20></image> | `ssh ???@10.13.237.??`   |:x:               |:x:               |
-| 03   | 300115140 - <image src="https://avatars0.githubusercontent.com/u/54910329?s=460&v=4" width=20 height=20></image> | `ssh pi@10.13.237.87`   |:x:               |:x:               |
-| 04   | 300116670 - <image src="https://avatars0.githubusercontent.com/u/00000000?s=460&v=4" width=20 height=20></image> | `ssh pi@10.13.237.87`   |:x:               |:x:               |
+| 03   | 300115140 - <image src="https://avatars0.githubusercontent.com/u/54910329?s=460&v=4" width=20 height=20></image> | `ssh ???@10.13.237.??`   |:x:               |:x:               |
+| 04   | 300116670 - <image src="https://avatars0.githubusercontent.com/u/55238107?s=460&v=4" width=20 height=20></image> | `ssh ???@10.13.237.??`   |:x:               |:x:               |
 | 05   | 300116685 - <image src="https://avatars0.githubusercontent.com/u/00000000?s=460&v=4" width=20 height=20></image> | `ssh pi@10.13.237.87`   |:x:               |:x:               |
 | 06   | 300116973 - <image src="https://avatars0.githubusercontent.com/u/00000000?s=460&v=4" width=20 height=20></image> | `ssh pi@10.13.237.87`   |:x:               |:x:               |
 | 07   | 300117178 - <image src="https://avatars0.githubusercontent.com/u/00000000?s=460&v=4" width=20 height=20></image> | `ssh pi@10.13.237.87`   |:x:               |:x:               |
