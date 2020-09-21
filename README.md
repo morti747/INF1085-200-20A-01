@@ -26,10 +26,10 @@ Administration Linux
 |01|20-09-07|                                                | Rentrée des classes                     |                   |
 |02|20-09-14|[0.Blog](./0.Blog)                              | Ma première installation.               |                   |
 |03|20-09-21|[1.Metal](./1.Metal)                            | Metal                                   |                   |
-|04|20-09-28|[2.Keys](./2.Keys)                              |                                         |                   |
-|05|20-10-05|[3.Shell](./3.Shell)                            | Shell                                   | Chapitre 3        |
-|06|20-10-12|[3.Boot](./3.Boot)                              | Boot                                    | Chapitre 4, 5     |
-|07|20-10-19|                                                |                                         |                   |
+|04|20-09-28|[2.Virtualization](./2.Virtualiation)           |                                         |                   |
+|05|20-10-05|[3.Keys](./3.Keys)                              |                                         |                   |
+|06|20-10-12|[3.Shell](./3.Shell)                            | Shell                                   | Chapitre 3        |
+|07|20-10-19|[4.Boot](./4.Boot)                              | Boot                                    | Chapitre 4, 5     |
 |08|20-10-26| Autumn Break                                   |                                         |                   |
 |09|20-11-02|                                                |                                         |                   |
 |10|20-11-09|                                                |                                         |                   |
