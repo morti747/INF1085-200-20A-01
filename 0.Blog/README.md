@@ -26,7 +26,7 @@ Astuces:
 | 02   | 300115140 |                                                                | 10.13.237.?  |
 | 03   | 300116670 | https://auriane790987616.wordpress.com/blog                    | 10.13.237.?  |
 | 04   | 300116685 |                                                                | 10.13.237.?  |
-| 05   | 300116973 |                                                                | 10.13.237.?  |
+| 05   | 300116973 | https://nathalielinux.wordpress.com/?page_id=56                | 10.13.237.?  |
 | 06   | 300117178 | https://kblinuxca.wordpress.com/2020/09/16/comment-installer-linux-server-20-04/  | 10.13.237.?  |
 | 07   | 300117314 |                                                                | 10.13.237.?  |
 | 08   | 300117782 |                                                                | 10.13.237.?  |
