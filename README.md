@@ -26,7 +26,7 @@ Administration Linux
 |01|20-09-07|                                                | Rentrée des classes                     |                   |
 |02|20-09-14|[0.Blog](./0.Blog)                              | Ma première installation.               |                   |
 |03|20-09-21|[1.Metal](./1.Metal)                            | Metal                                   |                   |
-|04|20-09-28|[2.Virtualization](./2.Virtualiation)           |                                         |                   |
+|04|20-09-28|[2.Virtualization](./2.Virtualization)          | AWS                                     | Chapitre 2         |
 |05|20-10-05|[3.Keys](./3.Keys)                              |                                         |                   |
 |06|20-10-12|[3.Shell](./3.Shell)                            | Shell                                   | Chapitre 3        |
 |07|20-10-19|[4.Boot](./4.Boot)                              | Boot                                    | Chapitre 4, 5     |
