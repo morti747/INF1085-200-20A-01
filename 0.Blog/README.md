@@ -28,7 +28,7 @@ Astuces:
 | 04   | 300116685 |                                                                | 10.13.237.?  |
 | 05   | 300116973 | https://nathalielinux.wordpress.com/?page_id=56                | 10.13.237.?  |
 | 06   | 300117178 | https://kblinuxca.wordpress.com/2020/09/16/comment-installer-linux-server-20-04/  | 10.13.237.?  |
-| 07   | 300117314 |                                                                | 10.13.237.?  |
+| 07   | 300117314 | https://wordpress.com/home/mortilinuxserver.wordpress.com       | 10.13.237.?  |
 | 08   | 300117782 |                                                                | 10.13.237.?  |
 | 09   | 300117784 |                                                                | 10.13.237.?  |
 | 10   | 300117806 | https://marketing376655173.wordpress.com                       | 10.13.237.?  |
